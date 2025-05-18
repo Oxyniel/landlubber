@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<title> landlubber. - [page]. </title>
+<link rel="icon" href="https://landlubber.neocities.org/Pictures/frontviewofthethinker.png">
+<style>
+body {
+  background-image: url('https://nineplanets.org/wp-content/uploads/2019/12/Blue-Stars-954x1024.jpg');
+  background-size: 25%
+  color: black;
+}
+</style>
+<h1 style="color: white;" align="center">[page]</h1>
+</style>
+    <style>
+        .box {
+            width: 900px;
+            height: 200;
+            background-color: white;
+            border: 2px black;
+            phttps://neocities.org/dashboardadding: 10px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+    <img align="left" src="[image]" style="width:350px;height:400px;">
+    <img align="right" src="[image]" id=#image-name style="width:350px;height:400px;">
+    <!-- height and width may vary -->
+<style>
+ #image-name {
+   -webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+ }
+</style>
+    <div class="box" align="center"> <a style="color: #333232;" href="index.html"> Home </a> > <a style="color: #333232;" href="aesthetics.html"> [page] </a> <div align="left"> [page info] </div>
+   <div>--------------------------------------------------------------------------------------------------------------------
+    <!-- Dictionary! --> 
+    <div align="center"> Dictionary.
+    <!-- <div align="left"> <a href="[WEB SOURCE]" style="color:333232> [entry] </a>: [definition] 
+    <div>--------------------------------------------------------------------------------------------------------------------
+    <div align="center"> Citations.
+    <!-- Citations! -->
+      <div>--------------------------------------------------------------------------------------------------------------------
+    <!-- ill update this later......... too lazy. -->
